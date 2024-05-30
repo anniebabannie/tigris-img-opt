@@ -7,7 +7,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'cachefly-tigris.fly.dev',
+        hostname: 'cachefly-tigris.internal',
         port: '',
       },
     ],
